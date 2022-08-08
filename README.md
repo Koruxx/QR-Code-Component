@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Frontend Developer](https://your-solution-url.com)
-- Live Site URL: [GitHub Sites](https://your-live-site-url.com)
+- Live Site URL: [GitHub Sites](https://koruxx.github.io/QR-Code-Component/)
 
 ## My process
 I started making a container and aligning it in the center of the page. Then I tried to match the size off of the provided image(s). I added the html, then centered it. Then I added borders to the image and to the container to make it look nice and round. Then I spaced it all out and I was good to go.
