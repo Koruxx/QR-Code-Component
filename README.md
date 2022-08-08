@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Developer](https://your-solution-url.com)
+- Solution URL: [Frontend Developer](https://www.frontendmentor.io/solutions/qr-code-component-using-html5-css3-flexbox-7ljrtjgxvN)
 - Live Site URL: [GitHub Sites](https://koruxx.github.io/QR-Code-Component/)
 
 ## My process
